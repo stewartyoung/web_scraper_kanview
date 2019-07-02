@@ -3,5 +3,5 @@
   
 ## Project Dependencies
 * Python environment with the following:  
-  * selenium (for opening chrome pages), bs4 (beautiful soup web scraper) , re (regex), pandas (data frame), os
+  * selenium (for opening chrome pages), bs4 (beautiful soup web scraper) , re (regex), pandas (data frame), os, lxml (xml parser for navigated through html tree in beautiful soup)
 * ChromeDriver installed from http://chromedriver.chromium.org/getting-started
